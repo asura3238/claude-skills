@@ -1,0 +1,16 @@
+{
+  "tasklist": "수입 검수 체크리스트 / Import Inspection",
+  "tasks": [
+    {
+      "title": "fx백십 입고 검수 – 말통 20kg/15L / fx-baeksip inbound inspection – jerrycan 20kg/15L",
+      "notes": "입고 시 육안·기능 검수 항목 / Visual & functional checks on arrival",
+      "subtasks": [
+        {"title": "넥 뚜껑 유무 확인 / Neck cap present"},
+        {"title": "실링 여부 확인 / Sealing intact"},
+        {"title": "뒤집어도 새지 않는지 확인 / No leak when inverted"},
+        {"title": "재포장(뚜껑 개폐) 후 누수 여부 확인 / Leak check after reopen-and-reclose"},
+        {"title": "재포장 후 실링 유지 여부 확인 / Sealing still intact after repackaging"}
+      ]
+    }
+  ]
+}
